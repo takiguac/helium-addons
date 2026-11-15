@@ -39,41 +39,55 @@ https://chromewebstore.google.com/detail/cookie-guardian-auto-dele/
 [SITE AUGMENTATION/REDIRECT]
 
 tampermonkey
+
 https://chromewebstore.google.com/detail/tampermonkey/
 
 improve youtube
+
 https://github.com/code-charity/youtube
 
 old reddit redirect
+
 https://chromewebstore.google.com/detail/old-reddit-redirect/
 
 old twitter
+
 https://chromewebstore.google.com/detail/old-twitter-layout-2026/
 
 youtube dislike counter
+
 https://chromewebstore.google.com/detail/youtube-dislike-counter-r/
 
 sponsorblock
+
 https://chromewebstore.google.com/detail/sponsorblock-for-youtube/
 
 [COSMETIC]
+
 dark reader
+
 https://chromewebstore.google.com/detail/dark-reader/
 
 [BROWSER AUGMENTATIONS/NEW FUNCTIONALITIES]
+
 group speed dial
+
 https://chromewebstore.google.com/detail/group-speed-dial/
 
 ip domain country flag
+
 https://chromewebstore.google.com/detail/ip-domain-country-flag/
 
 video downloadhelper
+
 https://chromewebstore.google.com/detail/video-download-helper/
 
 read aloud
+
 https://chromewebstore.google.com/detail/read-aloud-a-text-to-spee/
 
 [BOOKMARKS/PASSWORDS]
 
 onetab
+
 https://chromewebstore.google.com/detail/onetab/
